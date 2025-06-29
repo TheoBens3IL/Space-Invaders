@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Slick2D",
+      "request": "launch",
+      "mainClass": "MainSpaceInvaders",
+      "vmArgs": "-Djava.library.path=${workspaceFolder}/natives"
+    }
+  ]
+}
